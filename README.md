@@ -13,7 +13,7 @@ E-mail : yellowoov@kookmin.ac.kr
 
 - - - 
 
-**[Baekjoon Online Judge] (https://www.acmicpc.net/)** Repository for problem solving records.  
+**[Baekjoon Online Judge](https://www.acmicpc.net)** Repository for problem solving records.  
 The language used is **Python** and the name of the file is the problem number.
 
 * 1000~9999 : This is a directory containing problem solving codes from 1000 to 9999.
