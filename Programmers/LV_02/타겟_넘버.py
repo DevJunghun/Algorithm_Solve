@@ -1,8 +1,15 @@
-import itertools
-from collections import deque
+answer = 0
+def DFS(numbers, target, idx, res):
+    global answer
+    if idx == len(numbers):
+        if target == res:
+            answer += 1
+            return
+    else:
+        DFS(numbers, target, idx + 1, res + numbers[idx])
+        DFS(numbers, target, idx + 1, res - numbers[idx])
 
 def solution(numbers, target):
-    num_list = [ (i, -i) for i in numbers ]
-    answer_list = list()
-    answer_list.append(list(itertools.combinations(num_list, 1)))
-    print(answer_list)
+    global answer
+    DFS(numbers, target, 0, 0)
+    return answer
