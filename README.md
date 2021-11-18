@@ -29,10 +29,20 @@ The language used is **Python** and the name of the file is the name of problem.
 **[Programmers](https://programmers.co.kr/learn/challenges)** 문제 풀이 기록을 위한 디렉토리입니다.  
 사용 언어는 **Python**, **MySQL**이며 파일의 이름이 문제의 이름입니다.  
 
-
+* LV_01 : Level 1 문제 풀이 코드를 모아 놓은 디렉토리입니다.
+* LV_02 : Level 2 문제 풀이 코드를 모아 놓은 디렉토리입니다.
+* LV_03 : Level 3 문제 풀이 코드를 모아 놓은 디렉토리입니다.
+* LV_04 : Level 4 문제 풀이 코드를 모아 놓은 디렉토리입니다. 
+* LV_05 : Level 5 문제 풀이 코드를 모아 놓은 디렉토리입니다. ( 추가 예정 )
 
 **[Programmers](https://programmers.co.kr/learn/challenges)** Directory for problem solving records.  
 The language used are **Python**, **MySQL** and the name of the file is the name of problem.
+
+* LV_01 : This is a directory containing problem solving codes from Level 1.
+* LV_02 : This is a directory containing problem solving codes from Level 2.
+* LV_03 : This is a directory containing problem solving codes from Level 3.
+* LV_04 : This is a directory containing problem solving codes from Level 4. 
+* LV_05 : This is a directory containing problem solving codes from Level 5. (to be added)
 
 - - -
 
