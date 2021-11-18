@@ -27,12 +27,12 @@ The language used is **Python** and the name of the file is the name of problem.
 <h3> Programmers </h3>  
 
 **[Programmers](https://programmers.co.kr/learn/challenges)** 문제 풀이 기록을 위한 디렉토리입니다.  
-사용 언어는 **Python**이며 파일의 이름이 문제의 이름입니다.  
+사용 언어는 **Python**, **MySQL**이며 파일의 이름이 문제의 이름입니다.  
 
 
 
 **[Programmers](https://programmers.co.kr/learn/challenges)** Directory for problem solving records.  
-The language used is **Python** and the name of the file is the name of problem.
+The language used are **Python**, **MySQL** and the name of the file is the name of problem.
 
 - - -
 
