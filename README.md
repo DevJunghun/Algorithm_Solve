@@ -49,11 +49,11 @@ The language used are **Python**, **MySQL** and the name of the file is the name
 <h3> ABOUT </h3> 
 
 BOJ 정보 : https://www.acmicpc.net/user/yellowoov   
-E-mail : yellowoov@kookmin.ac.kr
+E-mail : dev.junghun@gmail.com
 
 
 
 BOJ Information : https://www.acmicpc.net/user/yellowoov  
-E-mail : yellowoov@kookmin.ac.kr
+E-mail : dev.junghun@gmail.com
 
 - - - 
