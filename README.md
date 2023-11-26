@@ -1,8 +1,11 @@
 <h3>📝 알고리즘 문제 풀이 기록 📝</h3>
-알고리즘 문제 풀이 기록을 위한 Repository입니다.  
+알고리즘 문제 풀이 기록을 위한 Repository입니다.
+
+2023년 11월 26일부터 [백준허브](https://github.com/BaekjoonHub/BaekjoonHub)를 도입하여 문제 기록 방식이 변경되었습니다.   
+해결한 문제는 `플랫폼/등급/문제`의 형식으로 기록됩니다.
 
 - - -
-
+<h2> ~2023년 11월 26일까지 해결한 문제 </h2>
 <h3> BOJ </h3>  
 
 **[Baekjoon Online Judge](https://www.acmicpc.net/)** 문제 풀이 기록을 위한 디렉토리입니다.  
