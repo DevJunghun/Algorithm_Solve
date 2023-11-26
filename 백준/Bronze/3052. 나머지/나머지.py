@@ -1,0 +1,1 @@
+print(len(set([int(i) % 42 for i in [input() for _ in range(10)]])))
